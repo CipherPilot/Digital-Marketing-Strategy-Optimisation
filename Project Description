@@ -1,0 +1,37 @@
+## Situation
+
+The Google Marketing Team in the US was facing challenges in several key areas of their online business. Despite having a robust platform and a diverse range of products, the company was not fully leveraging its potential. With various strategies and channels in play, it was quite challenging to accurately assess the impact of different marketing initiatives and prove their effectiveness to stakeholders.
+
+To address these challenges, the Google Marketing Team focused on gaining insights into several key areas:
+
+- How do users interact with our e-commerce platform? Are there specific user behaviors or patterns that can inform our marketing strategies?
+- How effective are our promotional campaigns and discount strategies in driving sales? Do these initiatives lead to long-term customer retention or only short-term gains?
+- How does the user experience on our website and mobile app impact sales and customer engagement? Are there areas in need of improvement?
+- Which geographical markets or customer segments are most profitable? Are there emerging markets or segments that we should focus on?
+- How effective are our current strategies in acquiring new customers and retaining existing ones?
+- Which traffic channels are yielding the highest conversion rates? What are the underlying reasons for variations in conversion rates across different channels?
+
+## **Task**
+
+As the new marketing analyst at Google, my task involved conducting a detailed analysis of the e-commerce platform's performance. My main objective was to develop actionable strategies that would enhance overall performance. This included focusing on key areas such as customer acquisition, retention, monetization, and more efficient use of marketing channels. The ultimate aim was to significantly boost overall revenue.
+
+## Action
+
+In my role as a marketing analyst at Google, I used SQL to create a database and merge multiple datasets into a unified one for in-depth analysis, followed by thorough data preprocessing, including cleansing to ensure accuracy and reliability. I then conducted advanced analyses using advanced string, date and window functions to gain deeper insights into the website's performance, focusing on user interactions and the effectiveness of our e-commerce strategies. Additionally, I analyzed various web traffic sources to identify the most effective channels for driving sales and conversions, turning data into actionable business intelligence.
+
+### Results
+
+In conclusion, let's recap our recommendations below to summarize the key strategies and insights derived from our analysis.
+
+1. **Seasonal and Holiday Campaigns**: During key periods, such as the December holidays, create themed promotions and exclusive holiday deals. Develop holiday guides, offer limited-time discounts, and run festive-themed marketing campaigns to attract shoppers. Replicating this strategy in other months could potentially lead to a 25% uplift in revenue, akin to what is typically seen in December.
+2. **Maximize Monday Conversions**: With Mondays having the highest conversion rates but lower traffic, aim to boost Monday traffic by at least 10% to reach Tuesday levels. Launch start-of-the-week promotions and exclusive deals, and actively promote these through targeted email and social media campaigns early in the week.
+3. **Targeted Weekday Promotions**: Leverage the high traffic on Tuesdays and Wednesdays with special promotions and deals. Tailor your email marketing and social media campaigns to coincide with these peak days, ensuring promotions reach users when they are most active online.
+4. **Weekend Engagement Strategies**: Use retargeting ads to re-engage weekday visitors with special weekend promotions. Implement loyalty programs offering rewards for weekend shopping to boost off-peak traffic and sales by 15%.
+5. **Enhance Mobile Experience**: With 25% of sessions but only 5% of revenue coming from mobile, and considering that many users shop during commutes or workday breaks, focus on improving the mobile shopping experience. This could involve optimizing the mobile site's user interface, offering mobile-specific deals, or enhancing mobile payment options.
+6. **Focus on High-Value Regions**: Address the disproportionate revenue contribution from Washington and Illinois. Develop targeted marketing strategies for these regions, possibly with localized offers or campaigns, to capitalize on their higher spending patterns.
+7. **Strengthen User Engagement and Retention**: With 80% one-time visitors, target a 10% increase in repeat visits by enhancing the user experience for first-time visitors through personalized content, retargeting campaigns, and loyalty programs. Focus on engaging direct traffic with personalized strategies to reduce its high bounce rate.
+8. **Optimize Referral and Organic Channels**: Due to their low bounce rate and high conversion, aim to increase referral traffic by 20% through expanded partnerships. Continue to improve SEO for Organic Search, which shows robust session numbers and a good potential for conversions.
+9. **Revamp Social Media and Paid Channels**: Redesign social media campaigns for higher engagement and conversion. Improve targeting in Paid Search and Display advertising to reduce the 34% bounce rate and enhance visitor retention.
+10. **Reevaluate and Enhance Affiliate Strategies**: Thoroughly assess affiliate partnerships, focusing on the quality and relevance to address their high bounce rate and low conversions. Restructure or terminate underperforming affiliations to improve efficiency.
+
+These recommendations aim to capitalize on identified trends and insights, maximizing revenue opportunities throughout the year.
